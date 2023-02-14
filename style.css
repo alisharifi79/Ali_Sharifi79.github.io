@@ -30,6 +30,7 @@ section{
   padding: 0 80px;
   margin: auto;
 }
+
 .about, .services, .skills, .contact, footer{
   font-family: 'Poppins', sans-serif;
 }
@@ -160,6 +161,7 @@ section .title::after{
 .home{
   display: flex;
   height: 100vh;
+  background-image: url('images/workplace-with-smartphone-laptop-black-table-top-view-copyspace-background.jpg');
   background-size: cover;
   color:#fff;
   min-height: 500px;
