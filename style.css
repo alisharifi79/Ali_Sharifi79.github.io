@@ -161,7 +161,7 @@ section .title::after{
 .home{
   display: flex;
   height: 100vh;
-  background-image: url('images/workplace-with-smartphone-laptop-black-table-top-view-copyspace-background.jpg');
+  background-image: ('../images/workplace-with-smartphone-laptop-black-table-top-view-copyspace-background.jpg');
   background-size: cover;
   color:#fff;
   min-height: 500px;
